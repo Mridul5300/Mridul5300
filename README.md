@@ -1,16 +1,17 @@
-![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFuxUDI1rbWtw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730646352862?e=1747872000&v=beta&t=SimTjWvSorYoWUULsvh03bxHc6LuIxlCYwIQdW3c9Asbanner.png)
-### Hi there 👋, I am Mridul Sarker
+![Web Developer](https://media.licdn.com/dms/image/v2/D4E16AQFuxUDI1rbWtw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730646352862?e=1747872000&v=beta&t=SimTjWvSorYoWUULsvh03bxHc6LuIxlCYwIQdW3c9As)
+### Hi there 👋,  I am Mridul Sarker
 #### Web Developer
 
 
 As a dedicated MERN Stack Developer, I specialize in building high-performance, interactive web applications using MongoDB, Express.js, React.js, and Node.js,Tailwind css. With a strong understanding of full-stack principles, I thrive in creating applications that are not only functional but also visually appealing and user-friendly. My approach is rooted in clean code, intuitive design, and continuous improvement.
 
-Skills: REACT / JS / HTML / CSS/tailwind css/next js/
+Skills: REACT / JS / HTML / CSS/tailwind css/ nose js/express/next js
 
-- 🌱 I’m currently learning Redux and Framer motion 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Mernstack Developer 
-- 📫 How to reach me: 💌 mridulsarker1157@gmail.com 
+- 🔭 I’m currently working on https://gatewaymanson.netlify.app/ 
+- 🌱 I’m currently learning Redux Framer Motion 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about MernStack Developer 
+- 📫 How to reach me: 💌 mridulsarlar1157@gmail.com 
 - 😄 Pronouns: I am a Junior Web Developer. 
 
 
@@ -23,8 +24,4 @@ Skills: REACT / JS / HTML / CSS/tailwind css/next js/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul5300)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mridul5300&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Mridul5300)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mridul5300)  
 
